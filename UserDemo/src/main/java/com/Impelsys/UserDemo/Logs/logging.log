@@ -1,0 +1,46 @@
+[http-nio-8080-exec-1] TRACE com.Impelsys.UserDemo.Controller.UserController  - The Id that is used to search : [31]
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Searching user with Id : [31]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  - Getting all the user data...
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The page number is : [0]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The page Size is : [5]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The data is sorted by : [id]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The sorting direction is is : [ASC]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Service.UserService  - User data fetched successfully
+[http-nio-8080-exec-4] TRACE com.Impelsys.UserDemo.Controller.UserController  - The Id that is used to search : [5]
+[http-nio-8080-exec-4] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Searching user with Id : [5]
+[http-nio-8080-exec-4] INFO  com.Impelsys.UserDemo.Service.UserService  - Returning the user details with Id : [5]
+[http-nio-8080-exec-7] TRACE com.Impelsys.UserDemo.Controller.UserController  -  Searching using keyword...
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The page number is : [0]
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The page Size is : [5]
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The data is sorted by : [id]
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The sorting direction is is : [ASC]
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The keyword for searching is : [stark]
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Searching all the users having [stark] in the first name, last name, email id or phone number
+[http-nio-8080-exec-7] INFO  com.Impelsys.UserDemo.Service.UserService  -  Searching Complete!!!
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The new user details are as follows ...
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  First Name : [Jughead]
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Last Name : [Jones]
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Phone Number : [9877779222]
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Email Id : [rjones@yahoo.com]
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Controller.UserController  - Adding New User....
+[http-nio-8080-exec-1] INFO  com.Impelsys.UserDemo.Service.UserService  -  New user added successfully!!!
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The new user details are as follows ...
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  First Name : [Jughead]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Last Name : [Jones]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Phone Number : [9877779222]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Email Id : [rjonesyahoo.com]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  - Adding New User....
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Service.UserService  -  New user added successfully!!!
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The new user details are as follows ...
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  -  First Name : [Jughead]
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Last Name : [Jones]
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Phone Number : [9877779222]
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Email Id : [rjonesyahoo.com]
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Controller.UserController  - Adding New User....
+[http-nio-8080-exec-5] INFO  com.Impelsys.UserDemo.Service.UserService  -  New user added successfully!!!
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  The new user details are as follows ...
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  First Name : [Jughead]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Last Name : [Jones]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Phone Number : [9877779222]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  -  Email Id : [rjonesyahoo.com]
+[http-nio-8080-exec-2] INFO  com.Impelsys.UserDemo.Controller.UserController  - Adding New User....
